@@ -1,5 +1,7 @@
 # PHP Voting App
 
+vendor folder is missing there, some files are changed or deleted e.g 213.php
+
 1. Create the app
 - create and votes for questions -> 1 question for a day 
    
